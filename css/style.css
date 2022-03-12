@@ -1,0 +1,42 @@
+.navbar {
+    background-color: #B0C4DE;
+    padding-left: 35px;
+}
+
+.section-margin {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.section-titulo {
+    padding-bottom: 25px;
+    color: white;
+}
+
+.section-descriçao {
+    padding-top: 10px;
+    color: white;
+}
+
+.quem-somos {
+    background-color: #00BFFF;
+}
+
+.parceiros {
+    background-color: #1E90FF;
+}
+
+.serviços {
+    background-color:  #FAFAD2;
+}
+
+.serviços p{
+    text-align: start;
+}
+
+.footer {
+    padding-top: 25px;
+    padding-bottom: 19px;
+    color: black;
+    background-color:#00BFFF;
+}
